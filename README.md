@@ -7,6 +7,11 @@ graduation project for communication and electronics department fayoum universit
 - [ ] 4-Simulation & Testing.\
 
 i think [e-Health Sensor Shield](https://www.cooking-hacks.com/ehealth-sensor-shield-biometric-medical-arduino-raspberry-pi.html)\
+## project block diagram 
 ![](Screenshot.png)
+> project main parts 
+### as see in last fig there's main three parts 
+#### 1-nodes 'esp8266-12E'and its connected senors 
+
 
  
