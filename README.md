@@ -17,9 +17,9 @@ i think [e-Health Sensor Shield](https://www.cooking-hacks.com/ehealth-sensor-sh
 4-mobile app end user interface  \
 
 ##sensors used in nodes 
-1-humidity + temp.
-2-pir (motion detection)
-3-relay (controles high voltage devices )
-4-
+1-humidity + temp.\
+2-pir (motion detection)\
+3-relay (controles high voltage devices )\
+4-\
 
  
