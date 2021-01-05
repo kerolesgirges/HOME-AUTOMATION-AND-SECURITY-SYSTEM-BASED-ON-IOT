@@ -9,11 +9,17 @@ graduation project for communication and electronics department fayoum universit
 i think [e-Health Sensor Shield](https://www.cooking-hacks.com/ehealth-sensor-shield-biometric-medical-arduino-raspberry-pi.html)\
 ## project block diagram 
 ![](Screenshot.png)
-> project main parts 
-### as see in last fig there's main four parts 
+##project main parts 
+> as we saw in last fig there's main four parts 
 1-nodes 'esp8266-12E'and its connected senors \
 2-communication protocol connect nodes to main server (MQTT)\
 3-local server that connect all nodes to each other (MQTT broker) and tranfer,save data \
-4-mobile app user end 
+4-mobile app end user interface  \
+
+##sensors used in nodes 
+1-humidity + temp.
+2-pir (motion detection)
+3-relay (controles high voltage devices )
+4-
 
  
