@@ -19,6 +19,12 @@ graduation project for communication and electronics department fayoum universit
 1-humidity + temp.\
 2-pir (motion detection)\
 3-relay (controles high voltage devices )\
-4-\
+4-face detection security \
+5-door locker with password\
+6-google assistant.\
+7-door lockers with dynamic swithches  \
+8-plant sensors\
+9-
 
- 
+## security
+we will use mqtt communication protocole with QOC3
