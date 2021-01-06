@@ -25,7 +25,7 @@ graduation project for communication and electronics department fayoum universit
 07-door lockers with dynamic swithches  \
 08-plant sensors\
 09-smart bulb conected to the network\
-10-air quality control\
+10-air quality control \
 
 ## security
 we will use mqtt communication protocole with QOC3
