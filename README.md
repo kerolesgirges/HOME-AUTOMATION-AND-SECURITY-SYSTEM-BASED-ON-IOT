@@ -24,7 +24,7 @@ graduation project for communication and electronics department fayoum universit
 6-google assistant.\
 7-door lockers with dynamic swithches  \
 8-plant sensors\
-9-
+9-smart bulb conected to the network\
 
 ## security
 we will use mqtt communication protocole with QOC3
