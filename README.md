@@ -8,8 +8,8 @@ graduation project for communication and electronics department fayoum universit
 
 ## project block diagram 
 ![](Screenshot.png)
-##project main parts 
-> as we saw in last fig there's main four parts 
+## project main parts 
+> as we saw in last fig there's main four parts \
 1-nodes 'esp8266-12E'and its connected senors \
 2-communication protocol connect nodes to main server (MQTT)\
 3-local server that connect all nodes to each other (MQTT broker) and tranfer,save data \
