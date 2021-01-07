@@ -29,3 +29,8 @@ graduation project for communication and electronics department fayoum universit
 
 ## security
 we will use mqtt communication protocole with QOC3
+
+## any node will may have 
+01-TFT SPI LCD Display. \
+02-all systems will be on board .\
+03-run with battery and have safety circuit. \  
