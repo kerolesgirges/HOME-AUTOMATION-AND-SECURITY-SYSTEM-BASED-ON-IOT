@@ -17,7 +17,7 @@ graduation project for communication and electronics department fayoum universit
 
 ## sensors used in nodes 
 01-humidity + temp (dht11).------------------------------> sara \ 
-02-pir   (motion detection)------------------------------> sara \
+02-pir(motion detection).--------------------------------> sara \
 03-relay (controles high voltage devices )--------------->keroles \
 04-face detection security ------------------------------>keroles \
 05-door locker with password and dynamic swithches-------> \
