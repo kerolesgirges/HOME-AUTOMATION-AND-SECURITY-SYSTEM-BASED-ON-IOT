@@ -16,15 +16,15 @@ graduation project for communication and electronics department fayoum universit
 4-mobile app end user interface  \
 
 ## sensors used in nodes 
-01-humidity + temp (dht11).------------------------------> sara\ 
+01-humidity + temp (dht11).------------------------------> sara \ 
 02-pir   (motion detection)------------------------------> sara \
 03-relay (controles high voltage devices )--------------->keroles \
 04-face detection security ------------------------------>keroles \
-05-door locker with password and dynamic swithches------->\
-06-google assistant.------------------------------------->\
-07-plant sensors.---------------------------------------->\
-08-smart bulb conected to the network-------------------->\
-09-air quality control.---------------------------------->\
+05-door locker with password and dynamic swithches-------> \
+06-google assistant.-------------------------------------> \
+07-plant sensors.----------------------------------------> \
+08-smart bulb conected to the network--------------------> \
+09-air quality control.----------------------------------> \
 
 ## security
 we will use mqtt communication protocole with QOC3
