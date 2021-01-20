@@ -25,6 +25,7 @@ graduation project for communication and electronics department fayoum universit
 07-plant sensors.----------------------------------------> \
 08-smart bulb conected to the network--------------------> \
 09-air quality control.----------------------------------> \
+10-we can use every node as wifi repeter ----------------> \
 
 ## security
 we will use mqtt communication protocole with QOC3
