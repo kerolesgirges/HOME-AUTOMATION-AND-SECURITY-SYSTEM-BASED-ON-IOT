@@ -20,11 +20,11 @@ graduation project for communication and electronics department fayoum universit
 02-pir(motion detection).--------------------------------> sara \
 03-relay (controles high voltage devices )--------------->keroles \
 04-face detection security ------------------------------>keroles \
-05-door locker with password and dynamic swithches-------> \
+05-door locker with password and dynamic swithches------->mahmoud \
 06-google assistant.-------------------------------------> \
 07-plant sensors.----------------------------------------> \
 08-smart bulb conected to the network--------------------> \
-09-air quality control.----------------------------------> \
+09-air quality control.---------------------------------->mahmoud \
 10-we can use every node as wifi repeter ----------------> \
 
 ## security
