@@ -24,7 +24,7 @@ graduation project for communication and electronics department fayoum universit
 06-google assistant.-------------------------------------> \
 07-plant sensors.----------------------------------------> \
 08-smart bulb conected to the network--------------------> \
-09-air quality control.---------------------------------->mahmoud \
+09-air quality control.mq135----------------------------->mahmoud \
 10-we can use every node as wifi repeter ----------------> \
 
 ## security
