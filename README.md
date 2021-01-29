@@ -13,6 +13,10 @@ graduation project for communication and electronics department fayoum universit
 1-nodes 'esp8266-12E'and its connected senors \
 2-communication protocol connect nodes to main server (MQTT)\
 3-local server that connect all nodes to each other (MQTT broker) and tranfer,save data \
+/*
+Using an MQTT server such as Mosquitto is very important because it allows
+you to communicate machine to machine M2M
+*/
 4-mobile app end user interface  \
 
 ## sensors used in nodes 
