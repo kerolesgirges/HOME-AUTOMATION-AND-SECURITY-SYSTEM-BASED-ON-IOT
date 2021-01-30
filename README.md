@@ -39,7 +39,7 @@ we will use mqtt communication protocole with QOC3
 02-all systems will be on board .\
 03-run with battery and have safety circuit. \  
 04-over the air (OTA) programing.\
-05-gps module for internet connection in case of no internet.\
+05-sim module for internet connection in case of no internet.\
 06-Charging Protection.\
 07-Discharge Protection.\
 08-
