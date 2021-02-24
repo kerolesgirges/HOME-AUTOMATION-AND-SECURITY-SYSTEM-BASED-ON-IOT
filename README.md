@@ -43,3 +43,5 @@ we will use mqtt communication protocole with QOC3
 06-Charging Protection.\
 07-Discharge Protection.\
 08-
+## general notes 
+01- try use mqtt fx
