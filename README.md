@@ -20,15 +20,15 @@ you to communicate machine to machine M2M
 4-mobile app end user interface  \
 
 ## sensors used in nodes 
-01-humidity + temp (dht11)-------------------------------> sara to 29-1  
-02-pir(motion detection)---------------------------------> sara to 29-1  \
-03-relay (controles high voltage devices )--------------->keroles \
-04-face detection security ------------------------------>keroles \
-05-door locker with password and dynamic swithches------->mahmoud to 29-1 \
+01-humidity + temp (dht11)-------------------------------> sara to 29-1 -done 
+02-pir(motion detection)---------------------------------> sara to 29-1 -done  \
+03-relay (controles high voltage devices )--------------->keroles -done\
+04-face detection security ------------------------------>keroles -done\
+05-door locker with password and dynamic swithches------->mahmoud to 29-1 -done\
 06-google assistant.-------------------------------------> \
 07-plant sensors.----------------------------------------> \
 08-smart bulb conected to the network--------------------> \
-09-air quality control.mq135----------------------------->mahmoud to 29-1 \
+09-air quality control.mq135----------------------------->mahmoud to 29-1 -done\
 10-we can use every node as wifi repeter ----------------> \
 11-rfid ------------------------------------------------->
 
