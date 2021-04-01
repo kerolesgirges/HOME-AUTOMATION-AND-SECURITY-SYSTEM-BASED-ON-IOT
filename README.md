@@ -16,11 +16,11 @@ graduation project for communication and electronics department fayoum universit
 /*
 Using an MQTT server such as Mosquitto is very important because it allows
 you to communicate machine to machine M2M
-*/
+*/ \
 4-mobile app end user interface  \
 
 ## sensors used in nodes 
-01-humidity + temp (dht11)-------------------------------> sara to 29-1 -done 
+01-humidity + temp (dht11)-------------------------------> sara to 29-1 -done \
 02-pir(motion detection)---------------------------------> sara to 29-1 -done  \
 03-relay (controles high voltage devices )--------------->keroles -done\
 04-face detection security ------------------------------>keroles -done\
