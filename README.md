@@ -36,7 +36,6 @@ you to communicate machine to machine M2M
 we will use mqtt communication protocole with QOC3
 # electroincs (from schematic to pcp )
 ## all with esp 8266 12E
-![](esp12e.jpg =100x20)
 two types of circuits .\
 ## A - work directly from electricty (220v).\
 01-have relay .\
@@ -45,7 +44,7 @@ two types of circuits .\
 03-decoding and safty circuit .
 ## B -work with varity of sensors 
 01-battery with (Charging Protection + Discharge Protection) \
-02-multiplexing circuit for switching between sensors  
+02-multiplexing circuit for switching between sensors  \
 
 ## every node will may have 
 01-TFT SPI LCD Display. \
