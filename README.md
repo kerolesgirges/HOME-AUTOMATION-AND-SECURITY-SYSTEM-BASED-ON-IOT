@@ -36,7 +36,7 @@ you to communicate machine to machine M2M
 we will use mqtt communication protocole with QOC3
 # electroincs (from schematic to pcp )
 ## all with esp 8266 12E
-![](esp12e.jpg)
+![](esp12e.jpg =100x20)
 two types of circuits .\
 ## A - work directly from electricty (220v).\
 01-have relay .\
