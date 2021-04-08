@@ -19,7 +19,8 @@ you to communicate machine to machine M2M
 */ \
 4-mobile app end user interface  \
 
-## sensors used in nodes 
+## open source nodes (work with varity of sensors )
+### sensor may use  
 01-humidity + temp (dht11)-------------------------------> sara to 29-1 -done \
 02-pir(motion detection)---------------------------------> sara to 29-1 -done  \
 03-relay (controles high voltage devices )--------------->keroles -done\
@@ -31,9 +32,11 @@ you to communicate machine to machine M2M
 09-air quality control.mq135----------------------------->mahmoud to 29-1 -done\
 10-we can use every node as wifi repeter ----------------> \
 11-rfid ------------------------------------------------->
-
+# ---------------------------------------------------------------------------------------------------------------------------------------
 ## security
 we will use mqtt communication protocole with QOC3
+# ---------------------------------------------------------------------------------------------------------------------------------------
+
 # electroincs (from schematic to pcp )
 ## all with esp 8266 12E
 two types of circuits .\
@@ -45,6 +48,7 @@ two types of circuits .\
 ## B -work with varity of sensors 
 01-battery with (Charging Protection + Discharge Protection) \
 02-multiplexing circuit for switching between sensors  \
+# ---------------------------------------------------------------------------------------------------------------------------------------
 
 ## every node will may have 
 01-TFT SPI LCD Display. \
