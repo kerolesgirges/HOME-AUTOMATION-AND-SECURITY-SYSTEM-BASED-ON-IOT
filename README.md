@@ -31,7 +31,8 @@ you to communicate machine to machine M2M
 08-smart bulb conected to the network--------------------> \
 09-air quality control.mq135----------------------------->mahmoud to 29-1 -done\
 10-we can use every node as wifi repeter ----------------> \
-11-rfid ------------------------------------------------->
+11-rfid -------------------------------------------------> \
+12-magnetic door locker sensor --------------------------> 
 # ---------------------------------------------------------------------------------------------------------------------------------------
 ## security
 we will use mqtt communication protocole with QOC3
