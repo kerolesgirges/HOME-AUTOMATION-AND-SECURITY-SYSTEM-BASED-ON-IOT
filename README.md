@@ -1,10 +1,10 @@
 # cube_smart_home
 graduation project for communication and electronics department fayoum university:\
 ## main project stages 
-- [x] 1-Investigation . :shipit:  (over one month) 
-- [ ] 2-Methodology Of Implementation.
-- [ ] 3-Gain Knowledge.
-- [ ] 4-Simulation & Testing.
+- [done] 1-Investigation . :shipit:  (over one month) 
+- [done] 2-Methodology Of Implementation.
+- [done] 3-Gain Knowledge.
+- [done] 4-Simulation & Testing.
 
 ## project block diagram 
 ![](Screenshot.png)
@@ -21,18 +21,18 @@ you to communicate machine to machine M2M
 
 ## open source nodes (work with varity of sensors )
 ### sensor may use  
-01-humidity + temp (dht11)-------------------------------> sara to 29-1 -done \
-02-pir(motion detection)---------------------------------> sara to 29-1 -done  \
-03-relay (controles high voltage devices )--------------->keroles -done\
-04-face detection security ------------------------------>keroles -done\
-05-door locker with password and dynamic swithches------->mahmoud to 29-1 -done\
-06-google assistant.-------------------------------------> \
-07-plant sensors.----------------------------------------> \
-08-smart bulb conected to the network--------------------> \
-09-air quality control.mq135----------------------------->mahmoud to 29-1 -done\
-10-we can use every node as wifi repeter ----------------> \
-11-rfid -------------------------------------------------> \
-12-magnetic door locker sensor --------------------------> 
+01-humidity + temp (dht11)
+02-pir(motion detection)\
+03-relay (controles high voltage devices )\
+04-face detection security.\
+05-door locker with password and dynamic swithches\
+06-google assistant.\
+07-plant sensors.\
+08-smart bulb conected to the network\
+09-air quality control.mq135.\
+10-we can use every node as wifi repeter\
+11-rfid \
+12-magnetic door locker sensor  
 # ---------------------------------------------------------------------------------------------------------------------------------------
 ## security
 we will use mqtt communication protocole with QOC3
