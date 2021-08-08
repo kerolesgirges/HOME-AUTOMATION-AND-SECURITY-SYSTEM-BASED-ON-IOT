@@ -8,6 +8,8 @@ graduation project for communication and electronics department fayoum universit
 
 ## project block diagram 
 ![](Screenshot.png)
+![](Social-Media-Channel-Flowchart (4).png)
+
 ## project main parts 
 > as we saw in last fig there's main four parts \
 1-nodes 'esp8266-12E'and its connected senors \
